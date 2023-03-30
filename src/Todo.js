@@ -71,7 +71,6 @@ export default function Todo() {
     settoggle(false);
     settodo(newedited.title);
     setisedited(id);
-    newedited.completed(false);
   }
 
 
