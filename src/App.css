@@ -1,0 +1,17 @@
+.todo-list-container {
+  background: rgb(205, 245, 112);
+  border-radius: 10px;
+}
+
+.create-todo {
+  padding: 5% 5%;
+}
+
+.display-todo {
+  padding: 5% 5%;
+}
+
+.word-break--break-all {
+  word-break: break-all;
+  align-items: left;
+}
